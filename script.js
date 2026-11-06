@@ -13,4 +13,6 @@ let direccion; {
     pais = 'Colombia'
 }
 
+//Presentacion
 
+console.log ('Hola, soy'+ nombre, apellido + 'tengo' + años + 'y vivo en' + pais)
